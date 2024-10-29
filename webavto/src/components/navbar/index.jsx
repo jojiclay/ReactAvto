@@ -41,6 +41,7 @@ const Navbar = () => {
                   <option>Eng</option>
                   <option>Рус</option>
                   <option>Uzb</option>
+                  <option>Korea</option>
               </Language>
               <RigthtMenuBtn src={RMenuBtn} alt='Rigth-Menu-Btn' />
       </RigthWrapper>
